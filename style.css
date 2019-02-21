@@ -1,0 +1,6 @@
+.container {
+  display: flex;
+  height: 80vh;
+  background: #444;
+  margin-top: 50px;
+}
